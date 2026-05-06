@@ -2,7 +2,7 @@
 const trainers = [
     { name: "ريماس ناصر", role: "قائدة الفريق", exp: 9, img: "images/rms.jpg" },
     { name: "ليان الطويل", role: "مدربة خيول", exp: 4, img: "images/ليان.jpg" },
-    { name: "سارة موكلي", role: "مدربة خيول ", exp: 10, img: "images/ساره.jpg" },
+    { name: "سارة الموكلي", role: "مدربة خيول ", exp: 10, img: "images/ساره.jpg" },
     { name: "ريتال عبدالكريم", role: "مدربة أساسيات", exp: 6, img: "images/retal.JPG" },
     { name: "ريما الدوسري", role: "خبيرة سباقات", exp: 11, img: "images/reema.jpg" }
 ];
